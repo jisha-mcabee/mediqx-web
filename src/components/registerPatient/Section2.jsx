@@ -18,7 +18,11 @@ const page = () => {
             Please register your service requirement here, in detail
           </p>
         </div>
-        <div className="flex flex-col justify-center items-center">
+        
+        <div className="flex flex-col justify-center items-center"> 
+        <h1 className="w-[328px] text-[16px] font-semibold text-black pt-[24px]">
+        Patient Details
+            </h1>
           <div className="sm:px-8 text-[14px] text-black font-light flex flex-col gap-4">
             <input
               type="text"
