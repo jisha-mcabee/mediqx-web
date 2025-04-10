@@ -1,0 +1,18 @@
+import Navbar from '@/components/Navbar'
+import Section1 from '@/components/registerNurse/Section1'
+import Section2 from '@/components/registerNurse/Section2'
+import React from 'react'
+
+const page = () => {
+  return (
+    <div className="w-full">
+    <div className="relative">
+    <Navbar/>
+      <Section1/>
+      </div>  
+        <Section2/>
+    </div>
+  )
+}
+
+export default page
