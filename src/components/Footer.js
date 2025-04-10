@@ -60,7 +60,7 @@ India - 570 005
         </p>
         
       </div>
-      <div className="lg:hidden flex flex-col items-center mt-[46px]">
+      <div className="lg:hidden flex flex-col items-center mt-[46px] mb-4y">
         <img src="/Mediqxlogo.svg"></img>
         <p className="text-[16px] text-[#666666] mt-[13px]">
           2025 &#169; Mediqx Healthcare

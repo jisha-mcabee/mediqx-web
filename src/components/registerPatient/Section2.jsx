@@ -164,7 +164,7 @@ const page = () => {
                 <div className="flex gap-5">
                   <button
                     onClick={() => setShowMoreDetails(true)}
-                    className="w-[144px] h-[40px] rounded-[15px] border border-[#BBBBBB]"
+                    className="w-[144px] h-[40px] rounded-[15px] border border-[#BBBBBB] cursor-pointer"
                   >
                     Yes, Proceed
                   </button>

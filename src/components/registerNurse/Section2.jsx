@@ -435,7 +435,7 @@ const Section2 = () => {
                 <input type="file" id="cv-upload" className="hidden" />
               </label>
 
-              <button className="sm:w-[280px] md:w-[328px] h-[40px] bg-[#3674B5] text-white rounded-[15px] flex justify-center items-center">
+              <button className="sm:w-[280px] md:w-[328px] h-[40px] bg-[#3674B5] text-white rounded-[15px] flex justify-center items-center mb-10">
                 Upload
               </button>
             </div>

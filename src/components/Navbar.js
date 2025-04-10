@@ -14,7 +14,7 @@ function Navbar() {
     <>
       <span className="text-white xl:text-[#333333] text-[16px]">Career</span>
       <span className="text-white xl:text-[#333333] text-[16px]">Consultation</span>
-      <span className="text-white  text-[16px]">Services</span>
+      <span className="text-white  xl:text-[#333333]   text-[16px]">Services</span>
       <span className="text-[#FFFFFF] text-[16px]">About us</span>
       <span className="text-[#FFFFFF] text-[16px]">Blog</span>
       <span className="text-[#FFFFFF] text-[16px]">Contact</span>
